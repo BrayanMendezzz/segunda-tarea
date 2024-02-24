@@ -1,3 +1,4 @@
+INTEGRANTES : BRAYAN MENDEZ QUISPE Y LUIS RAMIREZ GASPAR
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
